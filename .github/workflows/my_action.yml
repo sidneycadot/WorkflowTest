@@ -5,4 +5,5 @@ jobs:
     pipo-job:
         runs-on: ubuntu-latest
         steps:
-            -uses: actions/checkout
+	    - name: First step.
+              uses: actions/checkout
