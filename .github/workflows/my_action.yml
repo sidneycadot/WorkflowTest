@@ -6,4 +6,3 @@ jobs:
         runs-on: ubuntu-latest
         steps:
 	    - name: First step.
-              uses: actions/checkout
